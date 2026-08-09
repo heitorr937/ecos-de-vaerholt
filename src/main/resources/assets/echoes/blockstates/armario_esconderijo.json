@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "echoes:block/armario_esconderijo" },
+    "facing=south": { "model": "echoes:block/armario_esconderijo", "y": 180 },
+    "facing=east":  { "model": "echoes:block/armario_esconderijo", "y": 90 },
+    "facing=west":  { "model": "echoes:block/armario_esconderijo", "y": 270 }
+  }
+}

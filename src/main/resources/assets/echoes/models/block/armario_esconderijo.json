@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_column",
+  "textures": {
+    "end": "echoes:block/armario_esconderijo_top",
+    "side": "echoes:block/armario_esconderijo_side"
+  }
+}

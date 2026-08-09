@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "#minecraft:is_overworld",
+  "features": "echoes:vaerholt_ruin_placed",
+  "step": "underground_decoration"
+}

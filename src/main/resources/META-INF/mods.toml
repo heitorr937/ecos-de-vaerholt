@@ -1,0 +1,29 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="All Rights Reserved"
+issueTrackerURL="https://github.com/example/echoes-of-vaerholt"
+
+[[mods]]
+modId="echoes"
+version="1.0.0"
+displayName="Ecos de Vaerholt"
+authors="Você + Claude"
+description='''
+Um mod de terror psicológico ambientado nas ruínas da vila mineira de Vaerholt.
+Sussurros nas paredes, uma entidade cega que caça por som e luz, e uma lanterna
+que talvez seja seu maior erro.
+'''
+
+[[dependencies.echoes]]
+    modId="forge"
+    mandatory=true
+    versionRange="[47,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.echoes]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1,1.21)"
+    ordering="NONE"
+    side="BOTH"

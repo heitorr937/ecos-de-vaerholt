@@ -1,0 +1,17 @@
+{
+  "item.echoes.lanterna_vaerholt": "Lanterna de Vaerholt",
+  "item.echoes.bateria_de_piche": "Bateria de Piche",
+  "item.echoes.diario_de_vaerholt": "Página de Diário",
+  "item.echoes.prata_viva": "Prata-Viva",
+  "item.echoes.sussurrante_spawn_egg": "Ovo de Geração: Sussurrante",
+  "item.echoes.descarnado_spawn_egg": "Ovo de Geração: Descarnado",
+  "item.echoes.ceifado_spawn_egg": "Ovo de Geração: Possuído",
+  "item.echoes.enlutado_spawn_egg": "Ovo de Geração: O Enlutado",
+  "block.echoes.armario_esconderijo": "Armário-Esconderijo",
+  "entity.echoes.sussurrante": "Sussurrante",
+  "entity.echoes.descarnado": "Descarnado",
+  "entity.echoes.ceifado": "Possuído (Mineiro)",
+  "entity.echoes.enlutado": "O Enlutado",
+  "entity.echoes.possuido": "Presa Possuída",
+  "itemGroup.echoes": "Ecos de Vaerholt"
+}

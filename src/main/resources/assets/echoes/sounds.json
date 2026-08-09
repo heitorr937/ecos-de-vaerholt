@@ -1,0 +1,14 @@
+{
+  "ambient.drone": { "category": "ambient", "sounds": [ { "name": "echoes:drone", "stream": true } ] },
+  "whisper.loop": { "category": "hostile", "sounds": [ "echoes:whisper_loop" ] },
+  "whisper.phrase": { "category": "hostile", "sounds": [ "echoes:whisper_phrase" ] },
+  "heartbeat": { "category": "ambient", "sounds": [ "echoes:heartbeat" ] },
+  "flayed.breath": { "category": "hostile", "sounds": [ "echoes:flayed_breath" ] },
+  "flayed.roar": { "category": "hostile", "sounds": [ "echoes:flayed_roar" ] },
+  "flayed.step": { "category": "hostile", "sounds": [ "echoes:flayed_step" ] },
+  "event.distant_scream": { "category": "ambient", "sounds": [ "echoes:distant_scream" ] },
+  "event.static_glitch": { "category": "master", "sounds": [ "echoes:static_glitch" ] },
+  "event.knock": { "category": "ambient", "sounds": [ "echoes:knock" ] },
+  "item.flashlight_click": { "category": "players", "sounds": [ "echoes:flashlight_click" ] },
+  "item.flashlight_flicker": { "category": "players", "sounds": [ "echoes:flashlight_flicker" ] }
+}

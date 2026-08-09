@@ -1,0 +1,17 @@
+{
+  "item.echoes.lanterna_vaerholt": "Vaerholt Lantern",
+  "item.echoes.bateria_de_piche": "Pitch Battery",
+  "item.echoes.diario_de_vaerholt": "Diary Page",
+  "item.echoes.prata_viva": "Livesilver",
+  "item.echoes.sussurrante_spawn_egg": "Whisperer Spawn Egg",
+  "item.echoes.descarnado_spawn_egg": "Flayed One Spawn Egg",
+  "item.echoes.ceifado_spawn_egg": "Possessed Spawn Egg",
+  "item.echoes.enlutado_spawn_egg": "The Mourner Spawn Egg",
+  "block.echoes.armario_esconderijo": "Hiding Wardrobe",
+  "entity.echoes.sussurrante": "Whisperer",
+  "entity.echoes.descarnado": "The Flayed One",
+  "entity.echoes.ceifado": "Possessed Miner",
+  "entity.echoes.enlutado": "The Mourner",
+  "entity.echoes.possuido": "Possessed Prey",
+  "itemGroup.echoes": "Echoes of Vaerholt"
+}

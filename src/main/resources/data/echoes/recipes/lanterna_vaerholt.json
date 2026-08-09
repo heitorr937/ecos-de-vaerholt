@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " I ",
+    "IPI",
+    " B "
+  ],
+  "key": {
+    "I": { "item": "minecraft:iron_ingot" },
+    "P": { "item": "echoes:prata_viva" },
+    "B": { "item": "echoes:bateria_de_piche" }
+  },
+  "result": { "item": "echoes:lanterna_vaerholt", "count": 1 }
+}
